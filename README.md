@@ -1,4 +1,4 @@
-<p align="center"><img src="res/vid/programming_this_is_fine.mp4" width="100%"></p>
+<p align="center"><img src="res/vid/programming_this_is_fine.gif" width="100%"></p>
 
 
 ### Hi there 👋
