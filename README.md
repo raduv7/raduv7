@@ -1,3 +1,6 @@
+<p align="center"><img src="https://media4.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=790b76119dccead7865270a024aa90b4327c5b04fa00fe3d&rid=giphy.gif" width="" height="75%" /></p>
+
+
 ### Hi there 👋
 
 <!--
