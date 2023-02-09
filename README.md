@@ -13,8 +13,8 @@
 [![website](res/img/instagram-light.svg)](https://www.instagram.com/raduvaida7/#gh-light-mode-only)
 [![website](res/img/instagram-dark.svg)](https://www.instagram.com/raduvaida7/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](res/img/facebook-light.sv)](https://www.facebook.com/raduandrei.vaida/#gh-light-mode-only)
-[![website](res/img/facebook-dark.sv)](https://www.facebook.com/raduandrei.vaida/#gh-dark-mode-only)
+[![website](res/img/facebook-light.svg)](https://www.facebook.com/raduandrei.vaida/#gh-light-mode-only)
+[![website](res/img/facebook-dark.svg)](https://www.facebook.com/raduandrei.vaida/#gh-dark-mode-only)
 </p>
 <!--
 **raduv7/raduv7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
